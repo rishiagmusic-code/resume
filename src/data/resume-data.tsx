@@ -67,7 +67,7 @@ export const RESUME_DATA = {
       title: "User Experience Engineering Analyst",
       logo: ParabolLogo,
       start: "Sept 2025",
-      end: "Jan 2026",
+      end: "Ongoing",
       description:
         "Collaborated with cross-functional engineering teams to define product requirements, ensuring AI agents effectively reduced manual developer overhead and improved deployment speed",
     },
