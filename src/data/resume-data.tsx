@@ -143,7 +143,7 @@ export const RESUME_DATA = {
         "Product Marketing",
         "Bootstrapped",
       ],
-      description: "Founder and CEO of Bombay Print Lab, a bootstrapped 3D printing service in Mumbai. Successfully scaled operations to 5 machines and achieved 10+ lakhs in annual revenue",
+      description: "Founder and CEO of Bombay Print Lab, a bootstrapped 3D printing service in Mumbai. Successfully scaled operations to 5 machines and achieved INR 23+ lakhs in annual revenue",
       logo: ConsultlyLogo,
       link: {
         label: "https://bombayprintlab.com",
