@@ -129,13 +129,13 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Service Design",
-    "Business Strategy",
+    "Business Design",
+    "Strategic Planning",
+    "Problem Solving",
+    "AI-Driven Development",
+    "Visual Design",
     "Product Management",
-    "User Research",
     "Figma & Prototyping",
-    "Next.js & React",
-    "Supabase & SQL",
-    "TypeScript",
     "Adobe Creative Suite",
   ],
   projects: [
