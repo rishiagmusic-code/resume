@@ -133,8 +133,10 @@ export const RESUME_DATA = {
     "Product Management",
     "User Research",
     "Figma & Prototyping",
+    "Next.js & React",
+    "Supabase & SQL",
+    "TypeScript",
     "Adobe Creative Suite",
-    "After Effects",
   ],
   projects: [
 	  {
@@ -172,17 +174,6 @@ export const RESUME_DATA = {
       link: {
         label: "rishiag.com",
         href: "https://rishiag.com/project/furnicare",
-      },
-    }, 
-{
-      title: "SOLHFagito",
-      techStack: ["Branding", "Social Strategy"],
-      description:
-        "Developed social media content strategy and visual identity for a healthy drink brand in collaboration with Byooooob agency.",
-      logo: JarockiMeLogo,
-      link: {
-        label: "behance.com",
-        href: "https://www.behance.net/gallery/159926869/SOLH-FAGITO-Graphic-Design",
       },
     },
     
