@@ -25,8 +25,8 @@ export const RESUME_DATA = {
   location: "Mumbai, India",
   locationLink: "https://maps.app.goo.gl/XSgSp6gNPUjLzU8s8",
   about:
-    "Strategic Designer",
-  summary:"They say curiosity killed the cat, but for me, it sparked a fire. Not of destruction, mind you, but of creation. I'm a designer who brings ideas to life, simply and creatively. From business to service design, I can tell your brand's story with wit and understanding. Let's chat and see how I can make your vision a reality!",
+    "Product & Service Designer | Founder",
+  summary:"Entrepreneurial designer who bridges the gap between business strategy and user experience. With a background in building revenue-generating ventures and redesigning heritage experiences, I specialize in creating seamless, scalable services. I don't just design interfaces; I design the entire business ecosystem around them.",
   avatarUrl: "https://github.com/1amrishi/resume/blob/main/src/images/logos/Rishi_Avatar.jpg?raw=true",
   personalWebsiteUrl: "https://rishiag.com",
   contact: {
@@ -61,6 +61,17 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Bombay Print Lab",
+      link: "https://bombayprintlab.com",
+      badges: ["Founder", "Service Design"],
+      title: "Founder & Product Lead",
+      logo: ConsultlyLogo,
+      start: "2023",
+      end: "Present",
+      description:
+        "Founded and scaled a D2C 3D printing service to ₹23 Lakhs+ annual revenue. Designed the end-to-end service blueprint, from e-commerce UX (Shopify) to last-mile delivery. Implemented 'Bombay-Terminal', a custom internal tool to automate order processing and reduce manual overhead by 40%.",
+    },
+    {
       company: "Accenture",
       link: "",
       badges: ["OnSite"],
@@ -69,7 +80,7 @@ export const RESUME_DATA = {
       start: "Sept 2025",
       end: "Ongoing",
       description:
-        "Collaborated with cross-functional engineering teams to define product requirements, ensuring AI agents effectively reduced manual developer overhead and improved deployment speed",
+        "Collaborating with cross-functional engineering teams to define product requirements, ensuring AI agents effectively reduce manual developer overhead and improve deployment speed.",
     },
 	  {
       company: "Runtime Solutions Pvt. Ltd.",
@@ -80,18 +91,18 @@ export const RESUME_DATA = {
       start: "June 2024",
       end: "July 2024",
       description:
-        "During my tenure at Runtime Solutions, I spearheaded the creation of compelling pitch decks for potential clients across diverse industries, including Pharmaceuticals, Food & Beverage, and Finance. A key achievement was overseeing a comprehensive website development project for a prominent Dubai-based real estate firm. This role allowed me to demonstrate my versatility in adapting communication strategies for various sectors and stakeholders, while collaborating with cross-functional teams to deliver high-impact solutions tailored to client needs.",
+        "Spearheaded compelling pitch decks for clients in Pharma, F&B, and Finance. Oversaw a comprehensive website development project for a prominent Dubai-based real estate firm, managing stakeholder expectations and delivering high-impact solutions.",
     },
 	  {
-      company: "Ministry of Infrastructure and Water Management - Netherlands",
+      company: "Ministry of Infrastructure (Netherlands)",
       link: "https://rishiag.com/project/plofsluis",
-      badges: ["OnSite"],
+      badges: ["Service Design"],
       title: "Experience Designer",
       logo: ParabolLogo,
       start: "2024",
       end: "2024",
       description:
-        "I worked on Plofsluis, a UNESCO World Heritage Site that was established during WWII but is little known and rarely visited. We began brainstorming and came up with ideas to make it more visible and experienceable; the customer appreciated the ideas and plans to implement them in the following year.",
+        "Redesigned the visitor experience for Plofsluis, a UNESCO World Heritage Site. Conducted user research and brainstorming sessions to increase site visibility and engagement. The client approved the proposed service interventions for implementation.",
     },
     {
       company: "Red in the White",
@@ -102,62 +113,37 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2024",
       description:
-        "Helped them with creating motion design videos including but not limited to Demo Videos, Promotional Videos for clients like Tartan AI, MirrAR and Flexiloans using After Effects",
+        "Created motion design assets including demo videos and promotional content for FinTech and AI clients like Tartan AI, MirrAR, and Flexiloans.",
     },
     {
       company: "Meet Interiors",
       link: "https://www.instagram.com/meetinteriors.hq/",
-      badges: ["On-Site"],
+      badges: ["Founder"],
       title: "Founder",
       logo: JojoMobileLogo,
       start: "2021",
       end: "2023",
       description:
-        "I developed a comprehensive directory of interior designers, providing a platform that connects designers with clients while also offering tools to manage their portfolios. My role involved leveraging technology to streamline the process of connecting designers with potential clients, creating a user-friendly platform that simplifies the search for interior design services. Currently paused due to time constraints"
-    },
-    {
-      company: "McCann Worldgroup",
-      link: "https://www.mccannworldgroup.com/",
-      badges: ["Remote"],
-      title: "Graphic Designer",
-      logo: NSNLogo,
-      start: "2022",
-      end: "2022",
-      description: "Helped in designing and delivering social media content for brands like Kotak Mahindra Bank, Jio-BP and Emami",
+        "Identified a gap in the interior design discovery market and built a two-sided marketplace connecting designers with clients. Designed the entire service flow, reducing friction in portfolio management and lead generation.",
     },
   ],
   skills: [
     "Service Design",
-    "Business Design",
+    "Business Strategy",
+    "Product Management",
+    "User Research",
+    "Figma & Prototyping",
+    "Adobe Creative Suite",
     "After Effects",
-    "Final Cut Pro",
-    "Photoshop",
-    "Illustrator",
-    "User Experience Design",
   ],
   projects: [
-{
-      title: "Bombay Print Lab",
-      techStack: [
-        "3D Printing",
-        "Product Marketing",
-        "Bootstrapped",
-      ],
-      description: "Founder and CEO of Bombay Print Lab, a bootstrapped 3D printing service in Mumbai. Successfully scaled operations to 5 machines and achieved INR 23+ lakhs in annual revenue",
-      logo: ConsultlyLogo,
-      link: {
-        label: "https://bombayprintlab.com",
-        href: "https://bombayprintlab.com",
-      },
-    },  
 	  {
-      title: "Plofsluis",
+      title: "Plofsluis Experience",
       techStack: [
         "Experience Design",
-        "Client Project",
-        "On-Site",
+        "UNESCO Project",
       ],
-      description: "Helped make this UNESCO recognised heritage monument a more visible and experienceable monument for people all around the world",
+      description: "Service design intervention to revitalize a dormant UNESCO heritage site, focusing on visitor journey mapping and digital-physical touchpoints.",
       logo: ConsultlyLogo,
       link: {
         label: "rishiag.com",
@@ -168,10 +154,9 @@ export const RESUME_DATA = {
       title: "Isvaera",
       techStack: [
         "Business Design",
-        "Client Project",
-        "Non-Profit",
+        "Process Optimization",
       ],
-      description: "Helped them solve business challenges like employee churn and making their product customisation process easier",
+      description: "Consulted for a non-profit to solve high employee churn. Redesigned their product customization workflow to improve operational efficiency.",
       logo: ConsultlyLogo,
       link: {
         label: "rishiag.com",
@@ -180,31 +165,20 @@ export const RESUME_DATA = {
     },
     {
       title: "FurniCare",
-      techStack: ["Service Design", "Academic"],
+      techStack: ["Service Design", "Sustainability"],
       description:
-        "Established a service to assist individuals in taking better care of their furniture; many are clinging to cleaning techniques from the past, even though furniture has evolved greatly in that time.",
+        "Designed a service ecosystem to educate users on modern furniture care, extending product lifecycles and promoting sustainability.",
       logo: MonitoLogo,
       link: {
         label: "rishiag.com",
         href: "https://rishiag.com/project/furnicare",
       },
-    },
-{
-      title: "Meet Interiors",
-      techStack: ["Side Project", "Service Design"],
-      description:
-        "Found a gap in the Indian Market where there was not rusted platform for people to find interior designer and relied on word of mouth, tried solving it by creating a service which was free for the designers and the visitors",
-      logo: JarockiMeLogo,
-      link: {
-        label: "rishiag.com",
-        href: "https://rishiag.com/",
-      },
-    },    
+    }, 
 {
       title: "SOLHFagito",
-      techStack: ["Client Project", "Graphic Design"],
+      techStack: ["Branding", "Social Strategy"],
       description:
-        "Helped this healthy drink brand with the social media content in collaboration with a team of designers through a agency called Byooooob",
+        "Developed social media content strategy and visual identity for a healthy drink brand in collaboration with Byooooob agency.",
       logo: JarockiMeLogo,
       link: {
         label: "behance.com",
