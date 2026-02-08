@@ -38,11 +38,6 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/rishiagarwalslg/",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://twitter.com/rishi_4999",
-        icon: XIcon,
-      },
     ],
   },
   education: [
