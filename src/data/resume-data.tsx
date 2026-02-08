@@ -25,8 +25,8 @@ export const RESUME_DATA = {
   location: "Mumbai, India",
   locationLink: "https://maps.app.goo.gl/XSgSp6gNPUjLzU8s8",
   about:
-    "Product & Service Designer | Founder",
-  summary:"Entrepreneurial designer who bridges the gap between business strategy and user experience. With a background in building revenue-generating ventures and redesigning heritage experiences, I specialize in creating seamless, scalable services. I don't just design interfaces; I design the entire business ecosystem around them.",
+    "Service Designer | Business Strategist | Founder",
+  summary:"Entrepreneurial designer bridging business strategy and user experience through service design. Built revenue-generating ventures (₹23L+ annual) and led service interventions for UNESCO heritage sites. I design end-to-end service ecosystems — not just interfaces. Currently seeking opportunities in Dubai to apply Strategic Design Management expertise.",
   avatarUrl: "https://github.com/1amrishi/resume/blob/main/src/images/logos/Rishi_Avatar.jpg?raw=true",
   personalWebsiteUrl: "https://rishiag.com",
   contact: {
@@ -35,11 +35,11 @@ export const RESUME_DATA = {
     social: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/rishiagarwalslg//",
+        url: "https://www.linkedin.com/in/rishiagarwalslg/",
         icon: LinkedInIcon,
       },
       {
-        name: "Instagram",
+        name: "X",
         url: "https://twitter.com/rishi_4999",
         icon: XIcon,
       },
@@ -85,13 +85,13 @@ export const RESUME_DATA = {
 	  {
       company: "Runtime Solutions Pvt. Ltd.",
       link: "https://rishiag.com/project/plofsluis",
-      badges: ["OnSite"],
-      title: "Account Manager",
+      badges: ["OnSite", "Dubai Client"],
+      title: "Business Design Consultant",
       logo: ParabolLogo,
       start: "June 2024",
       end: "July 2024",
       description:
-        "Spearheaded compelling pitch decks for clients in Pharma, F&B, and Finance. Oversaw a comprehensive website development project for a prominent Dubai-based real estate firm, managing stakeholder expectations and delivering high-impact solutions.",
+        "Delivered pitch decks and digital solutions for Dubai-based real estate firm. Managed stakeholder relationships across Pharma, F&B, and Finance sectors. Led website development project for prominent UAE property developer.",
     },
 	  {
       company: "Ministry of Infrastructure (Netherlands)",
